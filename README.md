@@ -10,4 +10,6 @@ A recent graduate in Fisheries and Aquatic Biology at Lagos State University, sp
 
 📊 Featured Projects
 * Environmental Research & Data Analysis: Applying Python and statistical tools to ecological datasets and coastal monitoring.
+
 * Aquatic Biology Studies: Researching sustainable aquaculture practices, water quality metrics, and alternative fish feed formulation.
+https://github.com/khalilullah-creator/fisheries-thesis-summary
