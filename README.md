@@ -4,7 +4,6 @@ I'm Bello Ibraheem Kolawole 👋
 A recent graduate in Fisheries and Aquatic Biology at Lagos State University, specializing in Data Analysis, Environmental Data Science, GIS Mapping, and Sustainable Aquaculture.
 
 🛠️ Technical Skills
-
 Programming & Analysis: Python, SPSS
 Geospatial Tools: GIS Mapping, Satellite Data Interpretation
 Domains: Environmental Research, Ecological Monitoring, Fishery Management
